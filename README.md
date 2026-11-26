@@ -1,12 +1,12 @@
 # The Archive · TV
 
-Spin-off of the film collection app, built for TV shows. Static site: open `index.html` from any web host
+Spin-off of the film collection app, built as a TV watchlist. Static site: open `index.html` from any web host
 (or `python3 -m http.server`). Starting data is your aggregated "greatest TV shows" list (497 shows).
 
 ## Files
 | File | Purpose |
 |---|---|
-| `index.html` | the app (collection grid, stats, Watch Next, creator pages, add-show form) |
+| `index.html` | the app (watchlist grid, stats, Watch Next, creator pages, add-show form) |
 | `shows.json` | your library. Starts as the 497-show consensus list, all unwatched |
 | `tv-wishlist.json` | optional "want to watch/buy" list (empty). Only feeds the creator pages for now |
 | `enrich.py` | local script that fills in posters, creators, seasons, ratings (see below) |
@@ -19,6 +19,8 @@ creators, seasons, network and runtime come from TMDB/OMDb:
     python3 enrich.py shows.json --tmdb YOUR_TMDB_KEY --omdb YOUR_OMDB_KEY
 
 Re-runnable and resumable (`--limit 50` to try a small batch first). Unmatched titles go to `enrich_unmatched.txt`.
+To fix one by hand: find it on themoviedb.org, copy the number from its URL (…/tv/1438-the-wire → 1438), add
+`"tmdb_id": 1438` to that show in `shows.json` and re-run — it then fetches that exact show instead of searching.
 Until it has run, Watch Next stays empty (it needs a poster and a score) and the network/episode filters match nothing.
 
 ## Data fields

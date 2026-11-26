@@ -3951,7 +3951,23 @@
   "sources": {
    "bbc_2021": 52,
    "guardian_2019": 35
-  }
+  },
+  "tmdb_id": 33933,
+  "poster": "https://image.tmdb.org/t/p/w342/hUwvcDAZG0nbVQokqZh1oQt8Cpm.jpg",
+  "synopsis": "It's 1986 - the year Maradona ends England's World Cup dreams in Mexico; the year Top Gun is the highest grossing film; the year over 3.4 million Brits are unemployed and the year Shaun is leaving school.",
+  "seasons": 1,
+  "episodes": 4,
+  "status": "Ended",
+  "director": "Shane Meadows",
+  "distributor": "Channel 4",
+  "runtime": 185,
+  "cast": [
+   "Joseph Gilgun",
+   "Vicky McClure",
+   "Stephen Graham"
+  ],
+  "imdb_id": "tt1685471",
+  "score": 7.8
  },
  {
   "title": "Star Trek",
@@ -4268,7 +4284,22 @@
   "sources": {
    "time_all_time_100": true,
    "rolling_stone_2022": "on_list_unranked"
-  }
+  },
+  "tmdb_id": 303914,
+  "poster": "https://image.tmdb.org/t/p/w342/l6xmwKLiWNioCdkNyYqv5TDIyCX.jpg",
+  "synopsis": "After a successful Canadian run as Second City TV on Global and SCTV on CBC, the cast packed up and moved to America (theoretically) when NBC offered them a timeslot under the title SCTV Network 90. With them, they brought their unique, quirky characters, their personalities, and the shows they had appeared on. Dick Blasucci had begun writing for the cast in their second series, SCTV, and joined them here, serving as a recurring straight man for the characters. Tony Rosato and Robin Duke wrote scripts at the beginning of the show as they had before, until quickly leaving to write and perform for Saturday Night Live. The appeal of SCTV Network 90, however, doesn't only come from the writing, but from the sheer wit of its legendary stars.",
+  "seasons": 6,
+  "episodes": 90,
+  "status": "Ongoing",
+  "director": "Andrew Alexander",
+  "distributor": "NBC",
+  "cast": [
+   "Dave Thomas",
+   "Joe Flaherty",
+   "Rick Moranis"
+  ],
+  "imdb_id": "tt0081925",
+  "score": 7.1
  },
  {
   "title": "The Honeymooners",
@@ -6617,7 +6648,23 @@
   "sources": {
    "bbc_2021": 74,
    "guardian_2019": 55
-  }
+  },
+  "tmdb_id": 46511,
+  "poster": "https://image.tmdb.org/t/p/w342/snOU6W5CU7aGVSVu29wBWzdzNzi.jpg",
+  "synopsis": "The  Utopia Experiments is a legendary graphic novel shrouded in mystery.  When a group of strangers find themselves in possession of an original  manuscript, their lives suddenly and brutally implode.",
+  "seasons": 2,
+  "episodes": 12,
+  "status": "Cancelled",
+  "director": "Dennis Kelly",
+  "distributor": "Channel 4",
+  "runtime": 50,
+  "cast": [
+   "Adeel Akhtar",
+   "Paul Higgins",
+   "Neil Maskell"
+  ],
+  "imdb_id": "tt2384811",
+  "score": 7.9
  },
  {
   "title": "Das Boot",
@@ -6983,7 +7030,23 @@
   "points": 68.6,
   "sources": {
    "imdb_top250": 81
-  }
+  },
+  "tmdb_id": 1457,
+  "poster": "https://image.tmdb.org/t/p/w342/7od3Mob2qu5lL1l5RsdV6xuEquw.jpg",
+  "synopsis": "Set in England in the early 19th century, Pride and Prejudice tells the story of Mr and Mrs Bennet's five unmarried daughters after the rich and eligible Mr Bingley and his status-conscious friend, Mr Darcy, have moved into their neighbourhood. While Bingley takes an immediate liking to the eldest Bennet daughter, Jane, Darcy has difficulty adapting to local society and repeatedly clashes with the second-eldest Bennet daughter, Elizabeth.",
+  "seasons": 1,
+  "episodes": 6,
+  "status": "Ended",
+  "director": "Andrew Davies",
+  "distributor": "BBC",
+  "runtime": 55,
+  "cast": [
+   "Jennifer Ehle",
+   "Colin Firth",
+   "Susannah Harker"
+  ],
+  "imdb_id": "tt0112130",
+  "score": 8.2
  },
  {
   "title": "The Corner",
@@ -9519,7 +9582,22 @@
   "points": 47.0,
   "sources": {
    "imdb_top250": 135
-  }
+  },
+  "tmdb_id": 39176,
+  "poster": "https://image.tmdb.org/t/p/w342/aRqNQ5v2tvZ9ZRAXpYik0JamHkm.jpg",
+  "synopsis": "Centered around a personally troubled, officially discredited police chief and his inharmonious police team in Ankara Police Force. Even though the show usually focuses on murders and other crimes that happens on a weekly basis, the undertone of the story leads to an eventual duel between Behzat Ç. and the rotten department officials and bureaucrats.",
+  "seasons": 4,
+  "episodes": 105,
+  "status": "Ended",
+  "distributor": "Star TV",
+  "runtime": 65,
+  "cast": [
+   "Erdal Beşikçioğlu",
+   "Canan Ergüder",
+   "Ege Aydan"
+  ],
+  "imdb_id": "tt1795096",
+  "score": 7.6
  },
  {
   "title": "The Responder",
@@ -9660,7 +9738,23 @@
   "points": 45,
   "sources": {
    "variety_2023": 56
-  }
+  },
+  "tmdb_id": 2734,
+  "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
+  "synopsis": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+  "seasons": 28,
+  "episodes": 602,
+  "status": "Ongoing",
+  "director": "Dick Wolf",
+  "distributor": "NBC",
+  "runtime": 42,
+  "cast": [
+   "Mariska Hargitay",
+   "Ice-T",
+   "Dann Florek"
+  ],
+  "imdb_id": "tt0203259",
+  "score": 8.0
  },
  {
   "title": "Poirot",
@@ -9898,7 +9992,23 @@
   "points": 42.6,
   "sources": {
    "imdb_top250": 146
-  }
+  },
+  "tmdb_id": 4165,
+  "poster": "https://image.tmdb.org/t/p/w342/b4YbLCWGeaY0YTy2vawNccLmTE6.jpg",
+  "synopsis": "The show revolves around the lives of the members of an Uber Wealthy - High Society Gujarati family of Cuffe Parade - South Mumbai, whose daughter-in-law is from a middle class Delhi background.",
+  "seasons": 2,
+  "episodes": 80,
+  "status": "Ended",
+  "director": "Aatish Kapadia",
+  "distributor": "Star One",
+  "runtime": 25,
+  "cast": [
+   "Ratna Pathak Shah",
+   "Rupali Ganguly",
+   "Satish Shah"
+  ],
+  "imdb_id": "tt1518542",
+  "score": 7.0
  },
  {
   "title": "Mr. Bean",
@@ -10985,7 +11095,23 @@
   "points": 32,
   "sources": {
    "metacritic": 69
-  }
+  },
+  "tmdb_id": 156861,
+  "poster": "https://image.tmdb.org/t/p/w342/kGr8ulZ31zzidZUHxihjgNCxbjR.jpg",
+  "synopsis": "In 1980s East London, a gang of hopeless crooks become embroiled in a major gold heist.",
+  "seasons": 2,
+  "episodes": 12,
+  "status": "Ended",
+  "director": "James de Frond, Tom Davis, Hugo Chegwin",
+  "distributor": "Channel 4",
+  "runtime": 24,
+  "cast": [
+   "Steve Stamp",
+   "Emer Kenny",
+   "Abraham Popoola"
+  ],
+  "imdb_id": "tt16352098",
+  "score": 5.5
  },
  {
   "title": "Anne with an E",
